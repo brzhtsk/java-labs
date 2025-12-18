@@ -1,0 +1,21 @@
+2025-12-18 04:58:12 INFO  Main [main] - Application started
+2025-12-18 04:58:24 INFO  Main [main] - Application ended
+2025-12-18 04:58:27 INFO  Main [main] - Application started
+2025-12-18 04:59:22 INFO  EncodeInputStream [main] - EncodeInputStream initialized with encoder
+2025-12-18 04:59:22 INFO  DecodeOutputStream [main] - DecodeOutputStream initialized
+2025-12-18 04:59:22 DEBUG Main [main] - Starting encoding process
+2025-12-18 04:59:22 INFO  EncodeInputStream [main] - Starting read and encode operation
+2025-12-18 04:59:22 DEBUG EncodeInputStream [main] - Read 8 bytes from input stream
+2025-12-18 04:59:22 DEBUG EncodeInputStream [main] - Encoded chunk size: 8
+2025-12-18 04:59:22 INFO  EncodeInputStream [main] - Read and encode completed. Total encoded bytes: 8
+2025-12-18 04:59:22 DEBUG DecodeOutputStream [main] - Decoding and writing 8 bytes
+2025-12-18 04:59:22 INFO  DecodeOutputStream [main] - Successfully wrote decoded data
+2025-12-18 04:59:22 INFO  Main [main] - Encoding and decoding completed successfully
+2025-12-18 04:59:35 DEBUG Main [main] - Saved encoded bytes to object file
+2025-12-18 04:59:52 INFO  Main [main] - Application ended
+2025-12-18 05:01:08 INFO  Main [main] - Application started
+2025-12-18 05:05:43 INFO  Main [main] - Application started
+2025-12-18 05:08:02 INFO  Main [main] - Application started
+2025-12-18 05:09:30 INFO  Main [main] - Application started
+2025-12-18 05:17:43 INFO  Main [main] - Application started
+2025-12-18 05:35:40 INFO  Main [main] - Application started
